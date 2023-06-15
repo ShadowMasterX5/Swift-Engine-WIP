@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4649cc552d7338842bd6f24dfaf2f385, type: 3}
+  m_Name: Red Spring Animations
+  m_EditorClassIdentifier: 
+  spriteAnimations:
+  - name: springIdle
+    looping: 0
+    frames:
+    - {fileID: 1586627197, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+  - name: springActivate
+    looping: 0
+    frames:
+    - {fileID: -1920419405, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 1380747250, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: -1458166184, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 1188304915, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: -1388379539, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: -603617338, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 535022259, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}

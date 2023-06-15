@@ -1,0 +1,2819 @@
+fileFormatVersion: 2
+guid: a5e2e75ea0ec047488543b3b1dd0ad2e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 1
+  spritePivot: {x: 0, y: 1}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2405
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b20d22a38a160f4eb7ac5f4544c8521
+      internalID: -324479141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2276
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37e8695f0ad2a543952155fee218002
+      internalID: -869549515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2276
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91561082343dd340b7e9ee2cfd7c463
+      internalID: -1220013169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2276
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076cabbf021562447924b6378586f5dd
+      internalID: 1689138115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2276
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05d9a0cce0b5174eb7c9e448f55e0f5
+      internalID: 9093872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2276
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7182ff612e71f43859dc95a44ae7a9
+      internalID: 1499800782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2276
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5691414f08d5d8429ac67c0c98e6e76
+      internalID: -213372986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2276
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce684dbdef8c5448b9a97fff990bafb
+      internalID: 2134047505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2276
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd957bd2ae711841993aa7ed15820f4
+      internalID: -1322631815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2276
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1b366241e660d478f05dcbf2ca18f9
+      internalID: 147273164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_10
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2276
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b7a59c1851d8549bb977fdc1e7bb7c
+      internalID: 1348664610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_11
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2276
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1b220821ba56a479435c9d15a926f8
+      internalID: -1716573291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_12
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2276
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f9ccca754d25647a0b2a4089e1e222
+      internalID: 1807029239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2148
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe0491aa2c4d42489fb1576db2e3bbe
+      internalID: -1674087023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_14
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2148
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d352557f1805e7f43bd212b483716721
+      internalID: -845615177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_15
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2148
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884a95412acbb4f48affb8d45abcdd0e
+      internalID: 1637509319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_16
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2148
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439e7b03e486ed0449c81ee1a932c0f6
+      internalID: 353806948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_17
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2148
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5478804f429b8d246a52329ac2601a6b
+      internalID: 793587639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2148
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713d47f869c1f54449e933f0f6406cad
+      internalID: 1207032390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_19
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2148
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe55def67226194f8b2a21916286f76
+      internalID: -983465480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_20
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 2148
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0f35be93173ae48a235faa660b5ec5
+      internalID: 228837175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_21
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 2148
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc099bd4948efc4e85246b35d226992
+      internalID: -938197052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_22
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 2148
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d606cd34949c5c2408bda7d6614e9751
+      internalID: -398613034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5d82666fc48394495271291961a364
+      internalID: 1176843271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9332150a82c59b749820e40a4febf13e
+      internalID: -410830444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a935cf527636bb4bbd5c783161237d0
+      internalID: -1645065175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db8799336893b7448ea2134a3137323
+      internalID: -644190440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39089ed92521c0d43a336102b9c26506
+      internalID: -1948023359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_28
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b15029c5f8876e4c8f40ecc35b96e38
+      internalID: 154021330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9916e97a4ac5b247b34a2346a73200f
+      internalID: 691895624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_30
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093e0507e79331243a477b41346ba299
+      internalID: 35694514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_31
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5267e8421df874aa15747658be5924
+      internalID: 1346503261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_32
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe76f528a54cdc24eb1cd41cd609f3a3
+      internalID: -662528462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_33
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4490146d09246844fb74fbfed5f611df
+      internalID: -1292293134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_34
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74995b029ae4d0f43973d174c0c7b37c
+      internalID: 255722313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_35
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6146c184a5554504cb73ff37feaab2ac
+      internalID: -994870329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_36
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b225301d1bb2344f81d06e7e32239b4
+      internalID: 530501539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_37
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f78dbcfeb1ea847b9d79adbae23489
+      internalID: 2103177915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_38
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050d500dcf904dd4e9083dd0aa798c0d
+      internalID: 1377368656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_39
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f999dc07b135354a86420be5eb6d758
+      internalID: -1953553787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_40
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f56021e1c107a43b6406e84278dc90
+      internalID: -1220977418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_41
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb24c77c4adc3c4aae38323a94c1a77
+      internalID: 1573131961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_42
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952023a4cff91d24c83712921caa020b
+      internalID: -342263084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_43
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ef59fcf1765ce4da232a7b344d9ab5
+      internalID: 1831109535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_44
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a41bda02076fc40b6b71277eeca9a9
+      internalID: 868619812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_45
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2208
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65164fc1292dbe47b5b4fdd1b8010eb
+      internalID: 1139390717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2148
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5259fbbacf17f459aadeab6fc88aba
+      internalID: -2122381905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_47
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2148
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605db4ad7a6f95b42a7d3bb1e4f9cd5f
+      internalID: -893954491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_48
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2148
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fa94a14db7e084f8829edc7ffcf220
+      internalID: 332876021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_49
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2148
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8355ffefa847a2449b95d1d3dd40eae3
+      internalID: -796523990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1902
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725ef30de2a6da74eb140ae9993239f0
+      internalID: 2094091450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_51
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1902
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591a434ea03d18240a1a40ac03047909
+      internalID: 741582275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_52
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1902
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e2156d6d5393e468ee6b1d063c84ab
+      internalID: -1358403823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_53
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1902
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7580162988c251b419dca47210c00055
+      internalID: -1540504545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_54
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1902
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbb7d16e7776fb4d98425685312d531
+      internalID: -549035279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_55
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1902
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbb9f194298e574b977fd7a028b6bdb
+      internalID: 707681785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_56
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1902
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19811f2f158f64b40acd3cf7bb7fe586
+      internalID: -1256934601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_57
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1902
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52397652c28158045be61413dc1cb007
+      internalID: 1211331553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_58
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1902
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cf9b6828dff574993e477ed2beaf00
+      internalID: 976027363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_59
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1902
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2b369b60df77d42af06317903ec5e2
+      internalID: 1040439712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_60
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 2334
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed256436a1a80a04095f951fb519a910
+      internalID: -476146345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_61
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 2334
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae12f258af0887248953e16b6b01f867
+      internalID: -179107434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_62
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2334
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab169df9ff2028d4d88444cbe8c34247
+      internalID: 1129231450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_63
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2334
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480313e8b7a32934db7caa53d09dd572
+      internalID: -1678567509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_64
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2334
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741bfa8278709eb4e8f4ef110972b07c
+      internalID: 960820842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2020
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d404e5c3214e1e4898e009e9c98e66d
+      internalID: -1456853490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_66
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2020
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc61c537a2e4b64c936a6a80f087115
+      internalID: 1643731443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_67
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2020
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503678049c60ab64da16fbd39eea5b53
+      internalID: -1949897624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_68
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2020
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0473e19b4cccac54081e9f201e833b7d
+      internalID: -1821641915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_69
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2020
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720e6d2911341b24c8af0fff53a0297e
+      internalID: -512487389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_70
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2020
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5138b4404d2064da04c99996990d4e
+      internalID: -904062748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_71
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2020
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2795e220e2c244a4d93328dd209413e3
+      internalID: -1080666121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_72
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2020
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cd3495bb1d0bd49baee338e1b065e8
+      internalID: 778476470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_73
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 2020
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586ba3e26ed006e46aff807da13afa11
+      internalID: -973413597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_74
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2088
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb1afb9aaf88d54086e0af1a9680b2d
+      internalID: 377223985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_75
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2088
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467d3805867ad464eb51e5b6fa31897c
+      internalID: -196109083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_76
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2088
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75097110c32107c4f9a9d3803a703b2b
+      internalID: 405282503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_77
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 2088
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938a1f2d12cef4d4ab728440258f7bb8
+      internalID: 1702166820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_78
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2088
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ed41706e1dc5341b5135caa617115b
+      internalID: 782977554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_79
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2088
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99530e8af1d0f4741b2c104f10409c5d
+      internalID: 374469190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_80
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 2088
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836ed4411d0ff714d846bb7e26ed3dec
+      internalID: 170825082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_81
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 2088
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f717f7e3ee7720418017547c78a00cb
+      internalID: 1535056494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_82
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 2088
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165e4afdd8fdd96498d9f581374d6990
+      internalID: -1604953306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_83
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2088
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc2bbd274a44b24dbd99b6b0ac22cde
+      internalID: 5987103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_84
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2088
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36192bf8d72f7fc498f8bab83ca41fe7
+      internalID: -1626605124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_85
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2088
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741309f24d422ae499d813992ebc91d1
+      internalID: 500951088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_86
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1960
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b76f8e76fef514c8981e8536cf214e
+      internalID: 357134750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_87
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1960
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e796ee02e582c4bacebbbb9af41cab
+      internalID: -1906209455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_88
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1960
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7029ee4af24374648b4a2ec0fe636aad
+      internalID: 1174859203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1960
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb5b1f12236ea447a9d0835a174a503
+      internalID: -646252799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_90
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1961
+        width: 48
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a1b082c15c4d74eb456434e803638f
+      internalID: 1247950761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_91
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1960
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e4dfb31c106984a84dee90567879ad
+      internalID: 2119148357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_92
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1960
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eca243e05eb14645933776383dd02c2
+      internalID: 1297277807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_93
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1960
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242a7937e83824a498827f146fdb0983
+      internalID: 1176489887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_94
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1960
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46c979442813d74da9ea4c71b84553a
+      internalID: 205740160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_95
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1960
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59e341ef4f40294196e1c77e98fe716
+      internalID: -1682789699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_96
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2080
+        width: 48
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3494ab910c0bb7c47bb714e072335a8c
+      internalID: 331075707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_97
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2080
+        width: 48
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a7c3670d0c4a84cbe9db3553adf6e6
+      internalID: -1955090829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_98
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf3d9f8ba6481b4ca2986555b590810
+      internalID: 330491658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_99
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02de96a1b4cb0ac4d8a9f9e00b0607cc
+      internalID: 1993318090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_100
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b026de674477dab4c9d65c18de38ee6b
+      internalID: -1875110950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_101
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ed479d5d072b1409e34f4bf6ef2852
+      internalID: 832636540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_102
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28548a55f2cd02d468bccf93747e4502
+      internalID: 815941900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_103
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b970b38766c6c41a733de1b5f2994e
+      internalID: 1001267801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_104
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582a4ef8fccd7cd47b6aed236e093d75
+      internalID: -1287682325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_105
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e102e465b13a4429c02ced357cebeb
+      internalID: 1844960533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_106
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9317e5f678ee0fa4c9433f13c1d51bcd
+      internalID: 305898674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_107
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0938534ebba89459b6c34f74a2452b
+      internalID: 1438983164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_108
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e5931014c736b47bb0485bfa42ad1d
+      internalID: -1355912541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_109
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d9140f884270a43957429c1d5f9038
+      internalID: 1482469542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_110
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41594a05f850b8b43840baa72e288400
+      internalID: -627954562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_111
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99604f5ecc06dee4b8a4ef83882ad225
+      internalID: 365939822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_112
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7a09ec72153a949b46e9da9ee73f68
+      internalID: 1265959503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_113
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e1f35b377376c4ea7b358dcd99ffbe
+      internalID: 1085771698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_114
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2207f19d75e316f40b098a0e4e88e303
+      internalID: 1570520449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_115
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10cf7f4125fa8c499453c9e15117e03
+      internalID: -305414618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_116
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840832c59c5c9ca4295fece58d6c27d7
+      internalID: 432353963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_117
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9d9f7acd9716e4c8857567f0820e6c
+      internalID: 1922725567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_118
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778ab958c4a845c44ae7fc36740e879c
+      internalID: -1881855500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_119
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ce22e215e40c64389913dc1b8ee98f
+      internalID: -851249862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_120
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7364791dc37216049bfcb57adbb7e625
+      internalID: -253448393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SONICMANIA SONIC_121
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1777
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d9320531493be49a7772541fc085eb
+      internalID: 638292085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SONICMANIA SONIC_8: -1322631815
+      SONICMANIA SONIC_45: 1139390717
+      SONICMANIA SONIC_4: 9093872
+      SONICMANIA SONIC_32: -662528462
+      SONICMANIA SONIC_79: 374469190
+      SONICMANIA SONIC_13: -1674087023
+      SONICMANIA SONIC_97: -1955090829
+      SONICMANIA SONIC_1: -869549515
+      SONICMANIA SONIC_62: 1129231450
+      SONICMANIA SONIC_71: -1080666121
+      SONICMANIA SONIC_55: 707681785
+      SONICMANIA SONIC_56: -1256934601
+      SONICMANIA SONIC_77: 1702166820
+      SONICMANIA SONIC_85: 500951088
+      SONICMANIA SONIC_92: 2119148357
+      SONICMANIA SONIC_102: 815941900
+      SONICMANIA SONIC_80: 170825082
+      SONICMANIA SONIC_87: 357134750
+      SONICMANIA SONIC_89: 1174859203
+      SONICMANIA SONIC_53: -1540504545
+      SONICMANIA SONIC_52: -1358403823
+      SONICMANIA SONIC_114: 1570520449
+      SONICMANIA SONIC_86: -122145387
+      SONICMANIA SONIC_76: 405282503
+      SONICMANIA SONIC_24: -410830444
+      SONICMANIA SONIC_36: 530501539
+      SONICMANIA SONIC_121: 638292085
+      SONICMANIA SONIC_5: 1499800782
+      SONICMANIA SONIC_94: 1176489887
+      SONICMANIA SONIC_58: 976027363
+      SONICMANIA SONIC_7: 2134047505
+      SONICMANIA SONIC_83: 5987103
+      SONICMANIA SONIC_119: -851249862
+      SONICMANIA SONIC_73: -973413597
+      SONICMANIA SONIC_0: -324479141
+      SONICMANIA SONIC_18: 1207032390
+      SONICMANIA SONIC_120: -253448393
+      SONICMANIA SONIC_93: 1297277807
+      SONICMANIA SONIC_96: 331075707
+      SONICMANIA SONIC_116: 432353963
+      SONICMANIA SONIC_23: 1176843271
+      SONICMANIA SONIC_74: 377223985
+      SONICMANIA SONIC_51: 741582275
+      SONICMANIA SONIC_15: 1637509319
+      SONICMANIA SONIC_16: 353806948
+      SONICMANIA SONIC_107: 1438983164
+      SONICMANIA SONIC_59: 1040439712
+      SONICMANIA SONIC_68: -1821641915
+      SONICMANIA SONIC_20: 228837175
+      SONICMANIA SONIC_100: -1875110950
+      SONICMANIA SONIC_104: -1287682325
+      SONICMANIA SONIC_106: 305898674
+      SONICMANIA SONIC_33: -1292293134
+      SONICMANIA SONIC_9: 147273164
+      SONICMANIA SONIC_88: -1906209455
+      SONICMANIA SONIC_47: -893954491
+      SONICMANIA SONIC_2: -1220013169
+      SONICMANIA SONIC_98: 330491658
+      SONICMANIA SONIC_118: -1881855500
+      SONICMANIA SONIC_78: 782977554
+      SONICMANIA SONIC_38: 1377368656
+      SONICMANIA SONIC_10: 1348664610
+      SONICMANIA SONIC_21: -938197052
+      SONICMANIA SONIC_3: 1689138115
+      SONICMANIA SONIC_29: 691895624
+      SONICMANIA SONIC_69: -512487389
+      SONICMANIA SONIC_49: -796523990
+      SONICMANIA SONIC_14: -845615177
+      SONICMANIA SONIC_46: -2122381905
+      SONICMANIA SONIC_63: -1678567509
+      SONICMANIA SONIC_75: -196109083
+      SONICMANIA SONIC_61: -179107434
+      SONICMANIA SONIC_117: 1922725567
+      SONICMANIA SONIC_27: -1948023359
+      SONICMANIA SONIC_112: 1265959503
+      SONICMANIA SONIC_37: 2103177915
+      SONICMANIA SONIC_82: -1604953306
+      SONICMANIA SONIC_44: 868619812
+      SONICMANIA SONIC_54: -549035279
+      SONICMANIA SONIC_105: 1844960533
+      SONICMANIA SONIC_90: -646252799
+      SONICMANIA SONIC_39: -1953553787
+      SONICMANIA SONIC_110: -627954562
+      SONICMANIA SONIC_103: 1001267801
+      SONICMANIA SONIC_81: 1535056494
+      SONICMANIA SONIC_48: 332876021
+      SONICMANIA SONIC_111: 365939822
+      SONICMANIA SONIC_41: 1573131961
+      SONICMANIA SONIC_91: 1247950761
+      SONICMANIA SONIC_40: -1220977418
+      SONICMANIA SONIC_42: -342263084
+      SONICMANIA SONIC_12: 1807029239
+      SONICMANIA SONIC_95: 205740160
+      SONICMANIA SONIC_6: -213372986
+      SONICMANIA SONIC_11: -1716573291
+      SONICMANIA SONIC_25: -1645065175
+      SONICMANIA SONIC_31: 1346503261
+      SONICMANIA SONIC_50: 2094091450
+      SONICMANIA SONIC_22: -398613034
+      SONICMANIA SONIC_26: -644190440
+      SONICMANIA SONIC_57: 1211331553
+      SONICMANIA SONIC_72: 778476470
+      SONICMANIA SONIC_70: -904062748
+      SONICMANIA SONIC_66: 1643731443
+      SONICMANIA SONIC_34: 255722313
+      SONICMANIA SONIC_35: -994870329
+      SONICMANIA SONIC_113: 1085771698
+      SONICMANIA SONIC_108: -1355912541
+      SONICMANIA SONIC_30: 35694514
+      SONICMANIA SONIC_109: 1482469542
+      SONICMANIA SONIC_17: 793587639
+      SONICMANIA SONIC_43: 1831109535
+      SONICMANIA SONIC_65: -1456853490
+      SONICMANIA SONIC_84: -1626605124
+      SONICMANIA SONIC_115: -305414618
+      SONICMANIA SONIC_99: 1993318090
+      SONICMANIA SONIC_19: -983465480
+      SONICMANIA SONIC_28: 154021330
+      SONICMANIA SONIC_64: 960820842
+      SONICMANIA SONIC_101: 832636540
+      SONICMANIA SONIC_60: -476146345
+      SONICMANIA SONIC_67: -1949897624
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

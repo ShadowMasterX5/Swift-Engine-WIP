@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4649cc552d7338842bd6f24dfaf2f385, type: 3}
+  m_Name: Dust
+  m_EditorClassIdentifier: 
+  spriteAnimations:
+  - name: spindashDust
+    looping: 1
+    frames:
+    - {fileID: -247492714, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 134625879, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 957461450, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: -1419238659, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 1199348003, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 420469852, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: -1559810932, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: -1819512823, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 1650233449, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 1415310575, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 1203871236, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: -330690828, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: -1147874171, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 1291675039, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+  - name: dropdashDust
+    looping: 1
+    frames:
+    - {fileID: 1726001518, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 1550991006, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 2141225995, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: -120132017, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: -890824069, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 1577143210, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 1791742854, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 1663614322, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 168743888, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: -458931244, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+  - name: skiddingDust
+    looping: 1
+    frames:
+    - {fileID: -1954505091, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: -958673801, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 1251780690, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: -812652026, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 86629261, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 410408058, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: -1144085320, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 1245555371, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 1877887143, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 2088939723, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}

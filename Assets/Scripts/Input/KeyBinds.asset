@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e95e5da083002c4b97a08916ef252cd, type: 3}
+  m_Name: KeyBinds
+  m_EditorClassIdentifier: 
+  ActionButtons:
+  - ActionName: Right
+    positiveKeyCodes:
+    - RightArrow
+    negativeKeyCodes: []
+  - ActionName: Left
+    positiveKeyCodes:
+    - LeftArrow
+    negativeKeyCodes: []
+  - ActionName: Up
+    positiveKeyCodes:
+    - UpArrow
+    negativeKeyCodes: []
+  - ActionName: Down
+    positiveKeyCodes:
+    - DownArrow
+    negativeKeyCodes: []
+  - ActionName: Action
+    positiveKeyCodes:
+    - A
+    - S
+    negativeKeyCodes: []
+  - ActionName: Accept
+    positiveKeyCodes:
+    - Enter
+    negativeKeyCodes: []
+  - ActionName: Exit
+    positiveKeyCodes:
+    - Enter
+    negativeKeyCodes: []
